@@ -1,10 +1,12 @@
 # 内容：生成式AI
-# 数量：7条
+# 数量：10条
 DOMAIN,claude.ai
 DOMAIN,app.slack.com
+DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN,x.ai
