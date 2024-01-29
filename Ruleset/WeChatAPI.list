@@ -1,0 +1,7 @@
+# 内容：微信定位
+# 数量：5条
+DOMAIN,szextshort.weixin.qq.com
+DOMAIN,szminorshort.weixin.qq.com
+DOMAIN,mp.weixin.qq.com
+DOMAIN,szshort.weixin.qq.com
+DOMAIN-SUFFIX,weixin.qq.com

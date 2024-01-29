@@ -1,0 +1,5 @@
+# 内容：Cluade (Slack)
+# 数量：3条
+DOMAIN,claude.ai
+DOMAIN,app.slack.com
+DOMAIN-SUFFIX,anthropic.com

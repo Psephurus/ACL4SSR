@@ -1,0 +1,15 @@
+# 内容：微博定位
+# 数量：13条
+DOMAIN-KEYWORD,weibo
+DOMAIN-SUFFIX,sina.com
+DOMAIN-SUFFIX,sina.com.cn
+DOMAIN-SUFFIX,sina.cn
+DOMAIN-SUFFIX,sinaapp.com
+DOMAIN-SUFFIX,sinaapp.cn
+DOMAIN-SUFFIX,sinaimg.com
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-SUFFIX,weibocdn.cn
+DOMAIN-SUFFIX,sinajs.cn
