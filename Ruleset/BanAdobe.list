@@ -1,0 +1,3 @@
+PROCESS-NAME,acad.exe,REJECT
+PROCESS-NAME,Photoshop.exe,REJECT
+PROCESS-NAME,Illustrator.exe,REJECT
