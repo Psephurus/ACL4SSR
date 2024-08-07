@@ -2,3 +2,5 @@ PROCESS-NAME,acad.exe,REJECT
 PROCESS-NAME,Acrobat.exe,REJECT
 PROCESS-NAME,Photoshop.exe,REJECT
 PROCESS-NAME,Illustrator.exe,REJECT
+DOMAIN-SUFFIX,adobe.io,REJECT
+DOMAIN,lcs-cops.adobe.io,DIRECT
